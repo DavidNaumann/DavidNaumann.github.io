@@ -23,15 +23,15 @@ urls:
 
 author_logo: profile.png
 author: John Doe
-author_bio: Hi, My Name is John Doe. I love to Code and Design. devlopr-jekyll is a theme built for developers.  
-author_email: "johndoe@gmail.com"
-author_location: India
+author_bio: Hi, My Name is David Naumann.
+author_email: "NaumannDavidK@gmail.com"
+author_location: United States
 author_website_url: "https://davidsprojects.us"
 
 author_work_experiences: 
             - company_name: iD Tech
-              company_logo: google.png
-              company_url: https://google.com
+              company_logo: idtech.png
+              company_url: https://www.idtech.com/
               designation: Software Engineer
               description: Worked on various Google Products
               visibility: true
