@@ -1,127 +1,60 @@
-remote_theme: sujaykundu777/devlopr-jekyll  # Don't touch ( required for this theme)
+# Site
+repository: sproogen/resume-theme
+# favicon: images/favicon.ico
 
-# Edit your preferences below 
-title: David Naumann
-subtitle: C++, Python and Web Developer
-description: >- # this means to ignore newlines until "baseurl:"
-  John Doe uses devlopr-jekyll - a Jekyll Theme Built For Developers
+# Personal info
+name: Brett Harris
+title: Senior Network System Administrator
+email: brett.h@email.co.uk
+website: www.github.com/sproogen/resume-theme
 
-url: "https://davidnaumann.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
+# Social links
+twitter_username: facespics
+github_username:  sproogen
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+instagram_username: chillwildlife
+linkedin_username: jameswgrant
+# pinterest_username: jekyll
+youtube_username: globalmtb
+# googleplus_username: +jekyll
 
-urls:
-    - text: Blog
-      url: /blog
-    - text: About Me
-      url: /about
-    - text: Contact Me
-      url : /contact
-    - text: Sample Page
-      url: /sample-page
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
-# Edit these details 
+  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
-author_logo: profile.png
-author: John Doe
-author_bio: Hi, My Name is David Naumann.
-author_email: "NaumannDavidK@gmail.com"
-author_location: United States
-author_website_url: "https://davidsprojects.us"
+# Projects Section
+# projects_title: Projects
 
-author_work_experiences: 
-            - company_name: iD Tech
-              company_logo: idtech.png
-              company_url: https://www.idtech.com/
-              designation: Software Engineer
-              description: Worked on various Google Products
-              visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
-              visibility: false
+# Experience Section
+# experience_title: Experience
 
-author_education_details:
-              - college_logo: mit.png
-                college_name: MST
-                college_url: https://www.mst.edu
-                college_degree: Computer Engineer
-                description: Bachelor of Technology
-                visibility: true
+# Education Section
+# educaton_title: Education
 
-author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
-                visibility: true
-              - project_thumbnail: programmingebooks.png
-                project_title: Programming Ebooks
-                project_description: A Platform to easily find and read programming books
-                project_url: https://programmingebooks.com
-                visibility: true
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+   - Rock climbing
+   - Gaming
+   - Knitting
+   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-# social links
-twitter_username: DavidTheNewKid
-github_username:  DavidNaumann
-facebook_username: DavidNaumann
-linkedin_username: johndoe
-behance_username: johndoe
-instagram_username: johndoe
-medium_username: johndoe
-telegram_username: johndoe
-dribbble_username: johndoe
-flickr_username: johndoe
+# Footer
+footer_show_references: true
 
-#for comments using disqus
-disqus_shortname: sujay-kundu  
+# Build settings
+remote_theme: sproogen/resume-theme
 
-# wakatime username
-wakatime_username: sujaykundu777
+sass:
+  sass_dir: _sass
+  style: compressed
 
-# syntax highlighter
-markdown: kramdown
-highlighter: rouge
-permalink: pretty
-
-# google analytics
-google_analytics: UA-46783401-10 
-
-# Choose what to show ( can be true or false)
-show_author_work_experiences: true
-show_author_education_details: true
-show_author_project_details: true
-
-# dont touch this unless required
 plugins:
-  - jekyll-paginate
-  - jekyll-gist
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-remote-theme
-  # - jekyll-archives
-
-# pagination of posts
-paginate: 8
-per_page: 4
-paginate_path: "/blog/page/:num/"
-
-# minify 
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-  endings: all
-  ignore:
-    envs: ['development']
-
-# Archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#   layout: archive
-#   permalinks:
-#     category: '/category/:name/'
-
-
+ - jekyll-seo-tag
