@@ -11,11 +11,33 @@
 
 - layout: left
   company: Missouri University of Science and Technology
-  link: https://www.idtech.com/
+  link: https://www.mst.edu/
   job_title: OURE Researcher
-  dates: April 2018 - August 2019
+  dates: January 2017 - December 2018
   quote: >
    Researched complex network systems specifically the networks of autonomous cars.
   description: | # this will include new lines to allow paragraphs
     Worked in a Linux environment and programmed in Python and C++
     Used open source softwares such as NetworkX and NS3 to simulate networks
+
+- layout: left
+  company: Lambda Chi Alpha
+  link: http://www.lambdachimst.org/
+  job_title: Web Adminstrator
+  dates: July 2017 - December 2018
+  quote: >
+   Created a new website and optimized its search engine optimization.
+  description: | # this will include new lines to allow paragraphs
+    Set up a new website from scratch using PHP, JavaScript and CSS on top of WordPress
+    Improved search engine optimization to be on top of the Google search for certain keywords
+
+- layout: left
+  company: Walgreens
+  link: https://www.walgreens.com/
+  job_title: Photo Specialist
+  dates: May 2016 - August 2016
+  quote: >
+   Provided customers with courteous, friendly, fast, and efficient photo service and information.
+  description: | # this will include new lines to allow paragraphs
+    Monitored equipment operation to detect malfunctions
+    Tracked inventory of all photo lab products and equipment
