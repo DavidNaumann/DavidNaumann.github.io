@@ -1,8 +1,8 @@
 remote_theme: sujaykundu777/devlopr-jekyll  # Don't touch ( required for this theme)
 
 # Edit your preferences below 
-title: John Doe
-subtitle: Full Stack Web Developer
+title: David Naumann
+subtitle: C++, Python and Web Developer
 description: >- # this means to ignore newlines until "baseurl:"
   John Doe uses devlopr-jekyll - a Jekyll Theme Built For Developers
 
@@ -29,7 +29,7 @@ author_location: India
 author_website_url: "https://davidsprojects.us"
 
 author_work_experiences: 
-            - company_name: Google
+            - company_name: iD Tech
               company_logo: google.png
               company_url: https://google.com
               designation: Software Engineer
@@ -40,13 +40,13 @@ author_work_experiences:
               company_url: https://microsoft.com
               designation: Azure Developer
               description: Worked on various Azure Cloud Products
-              visibility: true
+              visibility: false
 
 author_education_details:
               - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
+                college_name: MST
+                college_url: https://www.mst.edu
+                college_degree: Computer Engineer
                 description: Bachelor of Technology
                 visibility: true
 
@@ -63,9 +63,9 @@ author_project_details:
                 visibility: true
 
 # social links
-twitter_username: johndoe
-github_username:  johndoe
-facebook_username: johndoe
+twitter_username: DavidTheNewKid
+github_username:  DavidNaumann
+facebook_username: DavidNaumann
 linkedin_username: johndoe
 behance_username: johndoe
 instagram_username: johndoe
