@@ -7,7 +7,7 @@
    Created life-changing tech experiences that embolden students to shape the future.
   description: | # this will include new lines to allow paragraphs
     Taught C++ and Python to students in a fast-paced environment
-	Planned daily lessons about TensorFlow, algorithms and image recognition
+    Planned daily lessons about TensorFlow, algorithms and image recognition
 
   company: Missouri University of Science and Technology
   link: https://www.idtech.com/
@@ -17,4 +17,4 @@
    Researched complex network systems specifically the networks of autonomous cars.
   description: | # this will include new lines to allow paragraphs
     Worked in a Linux environment and programmed in Python and C++
-	Used open source softwares such as NetworkX and NS3 to simulate networks
+    Used open source softwares such as NetworkX and NS3 to simulate networks
