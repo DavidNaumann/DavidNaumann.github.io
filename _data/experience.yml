@@ -2,8 +2,19 @@
   company: iD Tech
   link: https://www.idtech.com/
   job_title: Machine Learning Instructor
-  dates: November 2017 - Present
+  dates: April 2018 - August 2019
   quote: >
-   Creating life-changing tech experiences that embolden students to shape the future.
+   Created life-changing tech experiences that embolden students to shape the future.
   description: | # this will include new lines to allow paragraphs
-    Temporary
+    Taught C++ and Python to students in a fast-paced environment
+	Planned daily lessons about TensorFlow, algorithms and image recognition
+
+  company: Missouri University of Science and Technology
+  link: https://www.idtech.com/
+  job_title: OURE Researcher
+  dates: April 2018 - August 2019
+  quote: >
+   Researched complex network systems specifically the networks of autonomous cars.
+  description: | # this will include new lines to allow paragraphs
+    Worked in a Linux environment and programmed in Python and C++
+	Used open source softwares such as NetworkX and NS3 to simulate networks
