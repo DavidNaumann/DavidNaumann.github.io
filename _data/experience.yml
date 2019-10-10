@@ -6,7 +6,7 @@
   quote: >
    Created life-changing tech experiences that embolden students to shape the future.
   description: | # this will include new lines to allow paragraphs
-    Taught C++ and Python to students in a fast-paced environment. Planned daily lessons about TensorFlow, algorithms and image recognition
+    Taught <mark>C++</mark> and <mark>Python</mark> to students in a fast-paced environment. Planned daily lessons about TensorFlow, algorithms and image recognition
 
 - layout: left
   company: Missouri University of Science and Technology
@@ -16,7 +16,7 @@
   quote: >
    Researched complex network systems specifically the networks of autonomous cars.
   description: | # this will include new lines to allow paragraphs
-    Worked in a Linux environment and programmed in Python and C++. Used open source softwares such as NetworkX and NS3 to simulate networks
+    Worked in a Linux environment and programmed in <mark>Python</mark> and <mark>C++</mark>. Used open source softwares such as NetworkX and NS3 to simulate networks
 
 - layout: left
   company: Lambda Chi Alpha
@@ -26,7 +26,7 @@
   quote: >
    Created a new website and optimized its search engine optimization.
   description: | # this will include new lines to allow paragraphs
-    Set up a new website from scratch using PHP, JavaScript and CSS on top of WordPress. Improved search engine optimization to be on top of the Google search for certain keywords
+    Set up a new website from scratch using <mark>PHP</mark>, <mark>JavaScript</mark> and <mark>CSS</mark> on top of WordPress. Improved search engine optimization to be on top of the Google search for certain keywords
 
 - layout: left
   company: Walgreens
