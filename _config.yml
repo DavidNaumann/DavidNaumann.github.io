@@ -21,10 +21,10 @@ linkedin_username: kenneth-naumann-1414b4128
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me
+about_title: Professional Summary
 # about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's David.
+  Dedicated Computer Engineering student focused on applying advanced techinical expertise to a position in software testing and development.
 
   I am most skilled in: <mark>C++</mark> and <mark>Python</mark>
 
