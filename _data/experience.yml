@@ -16,7 +16,7 @@
   quote: >
    Researched complex network systems specifically the networks of autonomous cars.
   description: | # this will include new lines to allow paragraphs
-    Worked in a Linux environment and programmed in <mark>Python</mark> and <mark>C++</mark>. Used open source softwares such as NetworkX and NS3 to simulate networks
+    Worked in a <mark>Linux environment</mark> and programmed in <mark>Python</mark> and <mark>C++</mark>. Used open source softwares such as NetworkX and NS3 to simulate networks
 
 - layout: left
   company: Lambda Chi Alpha
