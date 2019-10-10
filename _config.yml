@@ -37,6 +37,12 @@ about_content: | # this will include new lines to allow paragraphs
 # Education Section
 # educaton_title: Education
 
+# More Sections
+more_tile: Organizations
+more_content: |
+  Institute of Electrical and Electronic Engineers Student Membership:
+    2017 - 2019
+
 # Footer
 footer_show_references: true
 
