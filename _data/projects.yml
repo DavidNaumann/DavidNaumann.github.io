@@ -5,4 +5,4 @@
   quote: >
     Research into the complex network systems of autonomous vehicles.
   description: | # this will include new lines to allow paragraphs
-    In this project we used <mark>C++</mark> and <mark>Python</mark> to find ways to better optimize autonomous vehicles networks to avoid vehicle-to-vehicle collision. For more information the paper is included <a href="https://github.com/DavidNaumann/davidnaumann.github.io/blob/master/assets/ResilientCyberPhySys_V2V.pdf">here</a> for you to read.
+    In this project we used <mark>C++</mark> and <mark>Python</mark> to find ways to better optimize autonomous vehicles networks to avoid vehicle-to-vehicle collision. For more information the paper is included <a href="https://github.com/DavidNaumann/Network-Research-2018/blob/master/ResilientCyberPhySys_V2V.pdf">here</a> for you to read.
