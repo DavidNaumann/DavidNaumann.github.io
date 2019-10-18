@@ -6,3 +6,12 @@
     Research into the complex network systems of autonomous vehicles.
   description: | # this will include new lines to allow paragraphs
     In this project we used <mark>C++</mark> and <mark>Python</mark> to find ways to better optimize autonomous vehicles networks to avoid vehicle-to-vehicle collision. For more information the paper is included <a href="https://github.com/DavidNaumann/Network-Research-2018/blob/master/ResilientCyberPhySys_V2V.pdf">here</a> for you to read.
+
+- layout: top-middle
+  name: Image Recognition in MRI Scans Research
+  link: https://github.com/DavidNaumann/Image-Recognition-in-MRI-Scans
+  github: davidnaumann/Research
+  quote: >
+    Research into using machine learning to identify Alzheimers and Dementia in patients
+  description: | # this will include new lines to allow paragraphs
+    This project uses image recognition techniques to identify the onset or appearance of Alzheimers and Dementia through a large data set of MRI scans.
