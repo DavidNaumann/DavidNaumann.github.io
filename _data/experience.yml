@@ -1,4 +1,22 @@
 - layout: left
+  company: Missouri University of Science and Technology
+  link: https://www.mst.edu/
+  job_title: Teaching Assistant
+  dates: August 2020 - Present
+  quote: >
+   Assisting the professor and grading papers for the students. 
+  description: | # this will include new lines to allow paragraphs
+    Keeping track of grades through out the semester and providing support to both the professor and the students in EE3410, Discrete Signal Processing.
+- layout: left
+  company: Cerner
+  link: https://www.cerner.com/
+  job_title: Software Engineer Intern
+  dates: May 2020 - August 2020
+  quote: >
+   Wrote software to embetter both the end user and automated tests to help spot problems in the future. 
+  description: | # this will include new lines to allow paragraphs
+    Provided input to design, developed applications, wrote automated tests, and troubleshooted issues across Cerner's technology solutions.
+- layout: left
   company: iD Tech
   link: https://www.idtech.com/
   job_title: Machine Learning Instructor
